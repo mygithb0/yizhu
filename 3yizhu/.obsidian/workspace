@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "bb06746ef5826d13",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a983244b11069ba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "音频设置.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5be1619673252ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dbcc36ef7773d0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7ff80ab4717729c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4802011bee0081b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "多巴胺",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d81a4b6758102faf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e31ca9ae93c04ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4108d1419341a14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "音频设置.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4802011bee0081b3",
+  "lastOpenFiles": [
+    "CAD打印出来有多余的图上没有的线条.md",
+    "比例尺.md",
+    "九阴真经原文.md",
+    "心态.md",
+    "逻辑类型.md",
+    "标签化管人.md",
+    "国家为什么会失败.md",
+    "应对过劳.md",
+    "考试前准备用具.md",
+    "1.md"
+  ]
+}

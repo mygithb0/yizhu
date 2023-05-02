@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "1251490b3284fa23",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa87590fee9f57b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc5de09f09fab581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大知识.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4afd829abc7130cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f122ed453a8203d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "985dedef074a16e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27b2e7e4a2c46ef3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "知识",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f3a4e6daa3ec6f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3063cd46391aba81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fbba7806a4f5d40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "大知识.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "dc5de09f09fab581",
+  "lastOpenFiles": [
+    "README.md",
+    "大知识.md",
+    "设备房间汇总.md",
+    "建筑技术作图.md",
+    "建筑技术作图数字密码.md",
+    "考试地点审核地点.md",
+    "报名网址  地点 交钱 打印准考证 分数查询.md",
+    "携带和准备的文具.md",
+    "3yizhu/考试前准备用具文具准考证格子纸.md",
+    "考试地点.md",
+    "记忆的内容.md",
+    "报名网站账号密码分数查询网站.md",
+    "3yizhu/数字密码汇总/数字密码汇总再汇总.md",
+    "绿地墙角.md",
+    "15.md",
+    "3yizhu/数字密码汇总/防火墙高出.md",
+    "相邻防火墙减.md",
+    "数字密码汇总/5.md",
+    "25.md",
+    "3yizhu/数字密码汇总/防火间距.md",
+    "Pasted image 20230430212402.png",
+    "建筑退距总结.md",
+    "3yizhu/数字密码汇总/防火间距不限.md",
+    "多三.md",
+    "多高.md",
+    "多多.md",
+    "3yizhu/数字密码汇总/1.md",
+    "Pasted image 20230430205749.png",
+    "Pasted image 20230430205722.png",
+    "Pasted image 20230430205710.png",
+    "Pasted image 20230430205645.png",
+    "Pasted image 20230430204422.png",
+    "1",
+    "3yizhu/数字密码汇总/未命名.canvas",
+    "Pasted image 20220518100315.png",
+    "Pasted image 20220518123901.png",
+    "Pasted image 20220521222844.png",
+    "Pasted image 20220517162346.png"
+  ]
+}

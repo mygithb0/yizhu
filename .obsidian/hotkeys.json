@@ -1,0 +1,10 @@
+{
+  "consistent-attachments-and-links:replace-all-wikilinks-with-markdown-links": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ]
+}
